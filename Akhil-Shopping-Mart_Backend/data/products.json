@@ -1,0 +1,83 @@
+[
+    {
+        "name": "SanDisk 128 GB Pen Drive (Red and Black)",
+        "price": "739",
+        "description":"USB 2.0 Flash Drive manufactured by Sandisk Storage Malaysia Sdn Bhd. The flash drive is designed with a compact form factor for maximum portability and ease of use. It features a simple drag-and-drop file backup function that allows for quick and easy file transfers. The flash drive is made of plastic and has a USB 2.0 interface. It is manufactured in Malaysia and is compatible with a variety of hardware platforms, including Mac OS X Snow Leopard, Windows XP Home, Mac OS X Tiger, Windows 7, Mac OS X Jaguar, Windows Vista Home Basic, Mac OS X Mountain Lion, Mac OS X Leopard, Mac OS X Lion, and Windows 8. The flash drive is compatible with laptops and personal computers and comes with mounting hardware for easy attachment to keychains or hooks. It has a standing screen display size of 7 inches and requires no batteries for use. The data transfer rate is 128 Megabits per Second, and the connector type is USB 2.0. This Compact USB 2.0 Flash Drive is a reliable and convenient solution for all your storage needs.",
+        "rating":4.5,
+        "images":[{
+            "public_id":"Products/31dJr6pVLzL._SX300_SY300_QL70_FM",
+            "url":"https://m.media-amazon.com/images/I/31dJr6pVLzL._SX300_SY300_QL70_FMwebp_.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Ebay",
+        "stock":40,
+        "numofReviews":249637,
+        "reviews":[
+            {
+                "name":"Jevon",
+                "rating":5,
+                "comment":"The pen drive looks compact and easy to use. The file transfer speed is pretty good. This product has been in the market for a very long time and seems trustworthy to buy and use."
+            },
+            {
+                "name":"Aswin sreekumar",
+                "rating":5,
+                "comment":"I got the correct product without any damage. I'm very satisfied by buying this. "
+            }
+        ]
+
+    },
+    {
+        "name": "Verilux® Flash Drive 64GB 4 in 1 Pendrive with Light-ning, Micro USB, USB A, Type-C ",
+        "price": "1399",
+        "description":"Verilux 4 in 1 Flash Drive, which has a storage capacity of 64GB and combines multiple interfaces (Light-ning, Micro USB, USB A, and Type-C) into one device. The flash drive is designed to be compatible with iOS 8 & above and Android systems with OTG function enabled. It features a multi-interface design, excellent heat dissipation, premium metal texture, and a convenient portable design with an added loop for attaching to a keychain or hook. The flash drive also comes with app requirements for use on iOS and Android devices. The product notes that there may be traces of plugging and unplugging on the USB flash drive due to testing before shipping.",
+        "rating":4.5,
+        "images":[{
+            "public_id":"Products/51BCSVoPGbL._SX679",
+            "url":"https://m.media-amazon.com/images/I/51BCSVoPGbL._SX679_.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Ebay",
+        "stock":50,
+        "numofReviews":2437,
+        "reviews":[
+            {
+                "name":"Sarfaraz h Batliwala",
+                "rating":5,
+                "comment":"Good product,Worth buying"
+            },
+            {
+                "name":"Rishi",
+                "rating":5,
+                "comment":"It is good but the transfer speed from pendrive to lapto is very slow"
+            }
+        ]
+
+    },    {
+        "name": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+        "price": "467",
+        "description":"The HP V236W 64GB Pendrive is a durable and stylish storage solution that offers both functionality and design. Its metal construction provides durability and the charming appearance brings a great sense of style. The electronic plating after printing technic (Anti-fake) ensures authenticity. Other features include Plug & Play and a lidless, compact design with an integrated strap-hole, making it easy to carry with you wherever you go. Additionally, it is temperature-proof, shock-proof, and vibration-proof, ensuring that your data is always safe and secure. This pendrive is compatible with various operating systems such as Windows 2000/XP and Vista, Windows 7, 8, 10 and MAC operating systems 10.3 and above. With a minimum write rate of 4MB/sec and a read rate of 14MB/sec, the HP V236W 64GB Pendrive offers fast data transfer speeds.",
+        "rating":4.5,
+        "images":[{
+            "public_id":"Products/61xNG4wjOuL._SX679",
+            "url":"https://m.media-amazon.com/images/I/61xNG4wjOuL._SX679_.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Ebay",
+        "stock":30,
+        "numofReviews":227,
+        "reviews":[
+            {
+                "name":"Balakrishna Gagguri",
+                "rating":5,
+                "comment":"I am also certified this product it's very best quality"
+            },
+            {
+                "name":"Anshika patel",
+                "rating":5,
+                "comment":"It provides 59 gb storage for use. It is having a good transfer speed. Recommended for purchase."
+            }
+        ]
+
+    }
+
+]
